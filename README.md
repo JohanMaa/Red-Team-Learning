@@ -9,7 +9,7 @@ Selamat datang di repositori ini! 🚀 Ini adalah dokumentasi perjalanan saya da
 
 ## 📂 Struktur Repository  
 📜 **docs/** → Panduan & materi belajar  
-📜 **projects/** → Proyek & eksploitasi lab  
+📜 **projects/** → Proyek, Script & eksploitasi lab  
 📜 **resources/** → Referensi & tools yang digunakan  
 
 ## 📖 Konten Saat Ini  
