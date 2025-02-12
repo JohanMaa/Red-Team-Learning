@@ -20,7 +20,7 @@ Selamat datang di repositori ini! 😈 Ini adalah dokumentasi perjalanan saya da
 ### 🔹 **Materi Belajar**  
 - 📌 [Linux Command Guide](docs/Linux_Commands_Complete_Guide.md)  
 - 📌 [Python Basic](docs/Python_Basic.md)  
-- 📌 [Cybersecurity Learning Path](docs/roadmap.md)  
+- 📌 [Roadmap](docs/roadmap.md)  
 
 ### 🔹 **Proyek & Eksperimen**  
 - 🔍 [Nmap Network Scanning](projects/basic-scripts/nmap_scan.sh)  
