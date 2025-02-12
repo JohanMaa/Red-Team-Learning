@@ -1,4 +1,4 @@
-# 🚀 Red Team Learning Journey  
+# Red Team Learning Journey  
 
 Selamat datang di repositori ini! 😈 Ini adalah dokumentasi perjalanan saya dalam belajar cybersecurity, khususnya di bidang **Red Team**, **Penetration Testing**, dan **Offensive Security**.  
 
@@ -17,9 +17,7 @@ Selamat datang di repositori ini! 😈 Ini adalah dokumentasi perjalanan saya da
 ---
 
 ## 📖 Konten Saat Ini  
-### 🔹 **Materi Belajar**  
-- 📌 [Linux Command Guide](docs/Linux_Commands_Complete_Guide.md)  
-- 📌 [Python Basic](docs/Python_Basic.md)  
+### 🔹 **Materi Belajar**    
 - 📌 [Roadmap](docs/roadmap.md)  
 
 ### 🔹 **Proyek & Eksperimen**  
