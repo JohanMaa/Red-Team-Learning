@@ -1,0 +1,443 @@
+*Cybersecurity Roadmap for Beginners by Cyber Caliphate Wing 🪽* 
+Note: if you need any certification course or training etc like OSCP OSED etc DM me on telegram:@caliphate23
+
+ *Step 1: Understand the Basics*
+Before diving into ethical hacking, you need to build a strong foundation in IT and networking.
+
+ *Learn Basic IT Skills*
+* Understand how computers, operating systems, and software work.
+* Learn about file systems, processes, and basic troubleshooting.
+
+ *Recommended Course:*
+**TOTAL CompTIA A+ Certification Core 1 & Core 2**
+📚 Includes:
+* 💻 **Core 1:** PC Hardware, Networking, and Troubleshooting  
+* ⚙️ **Core 2:** Operating Systems, Security, and Software Troubleshooting  
+* 🎥 Video Tutorials and Practice Questions  
+* 📖 Comprehensive Study Materials  
+
+⬇️ **Download Link:**  
+[CompTIA A+ Certification Course](https://drive.hackingwithdarkeyes.com/7:/TOTAL%20CompTIA%20A%2B%20Certification%20Core%201%20%26%20Core%202%20%40DarkEyesOfficial/)
+
+ *Learn Networking Fundamentals*
+*Networking is a core part of hacking.*
+* Study the **OSI model**, **TCP/IP**, and common protocols (HTTP, HTTPS, FTP, DNS, etc.).
+* Learn about **IP addressing, subnets, and routing**.
+
+*Recommended Courses:*
+**Computer Networks ANIMATED: Exclusively for Beginners**  
+* 📌 Covers IT Networking Fundamentals, Cryptography, OSI Model, Wireshark, Network Security, and more.
+* 📦 **Size:** 2.6GB
+
+⬇️ **Download Link:**  
+[Computer Networks Course](https://mega.nz/folder/arRjjLYJ#tfFIsqksubyIM0et1dv0Xw)
+
+**Practical Cisco Networking Labs in Cisco Packet Tracer**  
+⬇️ **Download Link:**  
+[Cisco Packet Tracer Labs](https://mega.nz/file/PV5zzJhL#mzpBq_UNOQpwTc1dlWrWpe6dSJ4pDOq0w83c2JyV0pI)
+
+**CCNA (Cisco Certified Network Associate)**  
+📩 DM me on Telegram for the full **CCNA Course for free**: [@caliphate23](https://t.me/caliphate23)
+
+
+*Step 2: Master Operating Systems (Linux, Windows, Mac)*
+Get Familiar with OS Internals
+* Learn **Linux basics** (commands, file systems, scripting, administration, etc.).
+* Understand **Windows internals** (registry, services, processes).
+
+*How to Install Kali Linux (Your First Hacking OS):*
+* **Install Kali Linux as a Host:** [Watch Tutorial](https://youtu.be/FYYU9qZ0Pps?si=qmDvouJRyKjWlCrU)
+* **Install Kali Linux with Live Persistence:** [Watch Tutorial](https://youtu.be/Hxau-bh8gr4?si=k6sPtxIOl9BSFjUF)
+* **Install Kali in VMware:** [Watch Tutorial](https://youtu.be/LBOHHky8Ed4?si=ouBqKSNtAilNg_WC)
+
+ *Learn Kali Linux Basics*
+📚 **Kali Linux Basics & Commands**  
+[Watch Here](https://youtu.be/B9fGYDM_TU4?si=Q-p0WHnZL6CO0XoR)
+
+*Step 3: Dive into Ethical Hacking*
+Once you have built a solid foundation, it’s time to explore ethical hacking.
+
+*Recommended Certifications Courses*
+* **Certified Ethical Hacker (CEH v12, then CEH v13) – EC-Council**
+
+📩 **Need CEH v12 Course in Hindi?**  
+DM me on Telegram: [@caliphate23](https://t.me/caliphate23)
+
+*Certified Ethical Hacker (CEH v12) by Ec Council*
+*⬇️Download Course:*🙂 
+https://drive.google.com/drive/folders/1f4U__iC8ez8jmanA4lQJw-rP4tInioiE?usp=sharing
+
+*Certified Ethical Hacker (CEH v13) by Ec Council*
+*⬇️Download Course:*🙂 
+https://mega.nz/folder/pu8TFbxQ#OBnnSGu4X8TZ5ArkpJBIog
+
+
+*Next Step : Learn Programming and Scripting*
+Programming is essential for understanding how software works and writing your own tools.
+
+*Learn Python:*
+Python is widely used in cybersecurity for scripting and automation.
+
+*Recommended Courses: Automate the Boring Stuff with Python (Free).*
+*📚 Dr Angela Yu 100 days of Python full course updated 2024 📚*
+Size: 20GB
+Download link: https://mega.nz/folder/RuNDXBpR
+ *Decryption Key*
+Io2Q43H8oQae0FQL-XeR2g
+
+*TCM Security Python 101 For Hackers*
+https://mega.nz/folder/HjgQXJJJ#ok--ait7yppytYJol7jrxQ
+
+*📚 Python for Pentester full course 📚*
+Size: 4GB
+Download link: 
+https://mega.nz/folder/juI0RaaD#jjHfzWQHxwBq8r7NQlZQyw
+
+Real Ethical Hacking in 43 Hours: Your Fast-Track to Cybersecurity Mastery with python 
+https://mega.nz/folder/4vUA3DAJ#H99PsNAR8Foaw1cGKwmTnw
+
+*Learn Bash Scripting:*
+Useful for automating tasks in Linux.
+
+*Recommended Resource: Bash Scripting Tutorial.*
+Full Course: https://youtu.be/e7BufAVwDiM?si=cpoIusQ2bVNdbine
+
+Second Course: https://youtu.be/mSQM8Xo78Wc?si=uIFT7c8vJ156-QeE
+
+again if you need bash for hackers course dm me on tg
+
+
+*Next Step :  Learn Cybersecurity Fundamentals*
+1. CIA Triad (Confidentiality, Integrity, Availability).
+2. Threats, Vulnerabilities, and Risks.
+3. Networking Basics (OSI model, TCP/IP, IP addressing, subnetting).
+4. Operating System Security (Linux & Windows hardening).
+5. Cryptography Basics (encryption, hashing, PKI).
+6. Malware Types (viruses, ransomware, spyware).
+7. Web Application Security (OWASP Top 10, secure coding).
+8. Identity and Access Management (authentication, authorization, MFA).
+9. Security Policies (incident response, disaster recovery).
+10. Security Tools (firewalls, IDS/IPS, antivirus, vulnerability scanners).
+11. Legal and Ethical Considerations (cybersecurity laws, ethical hacking).
+*Courses for this :*
+*Zsecurity All Courses(updated)*
+*🔸Download link:*
+https://mega.nz/folder/4VFXBKpT#qEzhyi-DmXLLSXfQuAJuyg
+
+*TCM pratical website penetration testing course* 
+https://mega.nz/file/aB4FwYbC#mhbmg5paSYnQzeKfSIu5sjkiItRFFMhJS61inuYiXzA
+
+*📚 Ethical Hacking to Become a Cyber Security Expert 📚*
+Size: 7GB 
+*Free Download Link 🖇️*
+https://mega.nz/folder/vRwgySBT#EEZYLcai7u2X8wg2WXDP3w
+
+*OSCP by Biten Tech Leaked By Cyber Army of AL-Mehdi*
+*Course Download Link*: https://terabox.com/s/1Har-QsakMTdhv0geDUMEzQ
+*Drive link:* https://drive.google.com/drive/folders/1Vf5-QAabvCS1xX9hiOuOCpwEFFHrQhdw
+
+*OSCP+ By OffSec*
+*Course Download Link*: https://terabox.com/s/1BpA3OdWHEBbdbdYyRSAL-A
+
+
+*Next STep :  Practice Ethical Hacking*
+Start practicing ethical hacking in a safe and legal environment.
+
+*Set Up a Lab Environment:*
+
+*Use virtualization software like VirtualBox or VMware.*
+
+*Download vulnerable VMs from VulnHub or TryHackMe.*
+
+*Learn Penetration Testing:*
+
+*Study the penetration testing lifecycle (reconnaissance, scanning, exploitation, post-exploitation, reporting).*
+
+
+*Practice on Capture the Flag (CTF) Platforms:*
+*Beginner-Friendly Platforms*
+
+1. *PicoCTF*: Great for students and beginners (picoctf.com)
+2. *TryHackMe*: Interactive labs for various skill levels (tryhackme.com)
+3. *RootMe*: Practice with real vulnerabilities (root-me.org)
+4. *OverTheWire*: Classic wargames to build your foundational skills (overthewire.org)
+5. *Vulnhub*: Download vulnerable machines for offline practice (vulnhub.com)
+6. *Hack This Site*: Learn WebApp security and Exploitation (hackthisite.org)
+
+
+*Intermediate-Level Platforms*
+
+1. *Hack The Box*: Test your skills on active challenges (hackthebox.com)
+2. *Google CTF*: Participate in Google's annual CTF (capturetheflag.withgoogle.com)
+3. *CMD Challenge*: Test your bash and shell command skills (cmdchallenge.com)
+4. *PentesterLab*: Learn pentesting with hands-on exercises (pentesterlab.com)
+
+
+*Specialized Training*
+
+1. *Pwn College*: Focus on binary exploitation and pwning (pwn.college)
+2. *PortSwigger Web Security Academy*: Learn about web vulnerabilities (portswigger.net/web-security)
+3. *CryptoHack*: Sharpen your cryptography skills (cryptohack.org)
+4. *Guyinatuxedo GitHub*: Learn Reverse engineering skills (github.com/guyinatuxedo) (see pinned) 
+
+
+*Advanced Platforms*
+
+1. *Attack-Defense*: Realistic attack-defense scenarios (attackdefense.com)
+2. *Hacker101 CTF*: CTF challenges designed by HackerOne (ctf.hacker101.com)
+3. *Komodo Security CTF*: Application security-focused CTF (ctf.komodosec.com)
+
+
+*Additional Resources*
+
+1. *Cybrary Virtual Labs*: Free and paid labs for hands-on practice (cybrary.it)
+2. *Hacksplaining*: Simple explanations of common vulnerabilities (hacksplaining.com/lessons)
+3. *OWASP WebGoat*: A deliberately vulnerable web app for learning (owasp.org/webgoat)
+
+
+*Communities & Forums*
+
+1. *Reddit*: Follow r/netsec and r/CTF for updates and challenges
+2. *CTFTime*: Track global CTF events (ctftime.org)
+3. *Hack The Box Forums*: Discuss CTFs and hacking techniques (forum.hackthebox.com)
+
+*Books & Tutorials*
+
+1. *Penetration Testing: A Hands-On Introduction* by Georgia Weidman
+2. *CTF Field Guide* by Trail of Bits
+3. *Open Security Training*: Free courses for cybersecurity topics (opensecuritytraining.info)
+4. *Hack The Box Academy*: Detailed courses for hacking skills (academy.hackthebox.com)
+5. *Hackers101*: Learn to Hack with their free courses (Hackers101.com)
+
+*Next Step :  Specialize in a Cybersecurity Domain*
+*Select your Domain in Cyber security:*
+
+Cybersecurity is a broad field. Choose a domain that interests you and specialize in it.
+
+*Penetration Testing:*
+
+*Web Application Security:*
+
+*Network Security:*
+
+*Digital Forensics and Incident Response (DFIR):*
+
+etc etc
+
+
+*Next Step : Get Certified*
+
+Certifications validate your skills and help you stand out in the job market.
+
+*Beginner Certifications:*
+
+CompTIA Security+
+PNPT by TCM 
+Certified Ethical Hacker (CEH).
+CPTS by HTB
+etc
+*Intermediate Certifications:*
+
+Offensive Security Certified Professional (OSCP).
+Certified Information Systems Security Professional (CISSP).
+OSWE 
+CPENT by Ec Council
+etc
+*Advanced Certifications:*
+GIAC Penetration Tester (GPEN).
+Certified Red Team Professional (CRTP)
+OSEP 
+OSED 
+OSEE 
+etc
+
+*Next STep* : *Build a Portfolio*
+Showcase your skills by building a portfolio.
+*Write Blogs:*
+Share your learning journey and write-ups of CTF challenges.
+Use platforms like Medium or your own blog.
+
+*Contibute to Open Source:*
+Contribute to cybersecurity tools and projects on GitHub.
+
+*Participate in Bug Bounty Programs:*
+Pltforms like *HackerOne* and *Bugcrowd* allow you to find and report vulnerabilities for rewards.
+
+*FInal Step :  Stay Updated*
+Cybersecurity is a constantly evolving field. Stay updated with the latest trends and threats.
+
+*Follow Cybersecurity News:*
+
+Krebs on Security.
+The Hacker News.
+
+*Join Communities:*
+Participate in forums like Reddit's r/netsec or r/cybersecurity.
+Join Discord groups or local cybersecurity meetups.
+
+*Attend Conferences:*
+DEF CON, Black Hat, and BSides are great places to network and learn.
+
+
+ *Essential Tools to Learn* 
+
+ **1. Reconnaissance and Information Gathering**
+These tools help gather information about the target.
+
+- **Nmap**: Network scanning and enumeration.
+- **Recon-ng**: Web-based reconnaissance framework.
+- **theHarvester**: Email, subdomain, and name harvesting.
+- **Shodan**: Search engine for finding devices connected to the internet.
+- **Maltego**: Visual link analysis for gathering information.
+- **Sublist3r**: Subdomain enumeration tool.
+- **Amass**: In-depth DNS enumeration and mapping.
+- **SpiderFoot**: Open-source intelligence (OSINT) automation.
+
+---
+
+ **2. Vulnerability Scanning**
+These tools identify vulnerabilities in systems and applications.
+
+- **Nessus**: Comprehensive vulnerability scanner.
+- **OpenVAS**: Open-source vulnerability scanner.
+- **Nikto**: Web server vulnerability scanner.
+- **Qualys**: Cloud-based vulnerability management.
+- **Nexpose**: Vulnerability management and risk assessment.
+- **OWASP ZAP**: Web application vulnerability scanner.
+- **Acunetix**: Automated web vulnerability scanner.
+
+---
+
+ **3. Exploitation Tools**
+These tools are used to exploit vulnerabilities.
+
+- **Metasploit**: Exploitation framework.
+- **SQLmap**: Automated SQL injection tool.
+- **Burp Suite**: Web application security testing and exploitation.
+- **ExploitDB**: Database of exploits and vulnerable software.
+- **BeEF**: Browser exploitation framework.
+- **Cobalt Strike**: Advanced threat emulation software.
+- **Empire**: Post-exploitation framework for PowerShell.
+
+---
+
+## **4. Password Cracking**
+These tools are used to crack passwords and hashes.
+
+- **John the Ripper**: Password cracking tool.
+- **Hashcat**: Advanced password recovery tool.
+- **Hydra**: Network login cracker.
+- **Medusa**: Parallel login brute-forcing tool.
+- **Cain and Abel**: Password recovery tool for Windows.
+- **Ophcrack**: Windows password cracker using rainbow tables.
+
+---
+
+ **5. Wireless Hacking**
+These tools are used to test wireless networks.
+
+- **Aircrack-ng**: Suite of tools for wireless network auditing.
+- **Kismet**: Wireless network detector and sniffer.
+- **Wifite**: Automated wireless attack tool.
+- **Reaver**: Brute-force attack against WPS-enabled routers.
+- **Fern Wifi Cracker**: GUI-based wireless security tool.
+
+---
+
+ **6. Web Application Testing**
+These tools are used to test web applications for vulnerabilities.
+
+- **Burp Suite**: Web application security testing.
+- **OWASP ZAP**: Open-source web application scanner.
+- **Dirb/Dirbuster**: Directory brute-forcing tool.
+- **WPScan**: WordPress vulnerability scanner.
+- **XSStrike**: Advanced XSS detection and exploitation tool.
+- **Commix**: Automated command injection tool.
+
+---
+
+ **7. Network Sniffing and Spoofing**
+These tools are used to capture and analyze network traffic.
+
+- **Wireshark**: Network protocol analyzer.
+- **Tcpdump**: Command-line packet analyzer.
+- **Ettercap**: Man-in-the-middle (MITM) attack tool.
+- **BetterCAP**: Swiss Army knife for network attacks.
+- **Cain and Abel**: Network sniffing and MITM tool.
+
+---
+
+ **8. Post-Exploitation**
+These tools are used after gaining access to a system.
+
+- **Mimikatz**: Extracts passwords and credentials from memory.
+- **PowerSploit**: PowerShell post-exploitation framework.
+- **Empire**: Post-exploitation framework for PowerShell.
+- **BloodHound**: Active Directory exploitation tool.
+- **Cobalt Strike**: Post-exploitation and lateral movement.
+
+---
+ **9. Forensics and Analysis**
+These tools are used for digital forensics and incident response.
+
+- **Autopsy**: Digital forensics platform.
+- **Volatility**: Memory forensics framework.
+- **FTK Imager**: Forensic toolkit for imaging and analysis.
+- **Sleuth Kit**: File system and disk analysis tool.
+- **Wireshark**: Network traffic analysis.
+
+---
+
+ **10. Social Engineering**
+These tools are used for social engineering attacks.
+
+- **SET (Social-Engineer Toolkit)**: Framework for social engineering attacks.
+- **Gophish**: Open-source phishing toolkit.
+- **King Phisher**: Phishing campaign tool.
+- **BeEF**: Browser exploitation framework for social engineering.
+
+---
+
+ **11. Reverse Engineering**
+These tools are used to analyze and reverse-engineer software.
+
+- **Ghidra**: Open-source reverse engineering tool.
+- **IDA Pro**: Disassembler and debugger.
+- **Radare2**: Open-source reverse engineering framework.
+- **OllyDbg**: 32-bit assembler-level debugger.
+- **Immunity Debugger**: Debugger for exploit development.
+
+---
+
+**12. Exploit Development**
+These tools are used to develop and test exploits.
+
+- **Metasploit Framework**: Exploit development and testing.
+- **Immunity Debugger**: Debugger for exploit development.
+- **GDB (GNU Debugger)**: Debugger for Linux systems.
+- **Pwntools**: Exploit development library for Python.
+- **ROPgadget**: Tool for finding ROP gadgets in binaries.
+
+---
+
+**13. Reporting and Documentation**
+These tools are used to document findings and generate reports.
+
+- **Dradis**: Collaboration and reporting tool.
+- **Serpico**: Penetration testing report generation.
+- **Faraday**: Collaborative penetration testing platform.
+- **Pwndoc**: Pentest report generation tool.
+
+---
+
+ **14. Miscellaneous Tools**
+Other useful tools for penetration testing.
+
+- **Netcat**: Swiss Army knife for networking.
+- **Socat**: Advanced version of Netcat.
+- **Responder**: LLMNR/NBT-NS poisoner.
+- **Impacket**: Python library for network protocols.
+- **Chisel**: Fast TCP/UDP tunnel over HTTP.
+
+Regards:
+*Cyber Caliphate Wing 🪽*
